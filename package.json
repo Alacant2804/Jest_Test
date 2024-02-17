@@ -1,0 +1,14 @@
+{
+  "name": "odin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "odin.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
